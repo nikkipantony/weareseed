@@ -81,7 +81,7 @@
 		"@fontsource/raleway": "^4.5.11",
 		"@mdx-js/mdx": "^1.6.22",
 		"@mdx-js/react": "^1.6.22",
-		"@reach/dialog": "^0.17.0",
+		"@reach/dialog": "^0.18.0",
 		"@reach/skip-nav": "^0.17.0",
 		"focus-visible": "^5.2.0",
 		"gatsby": "^4.18.0",
